@@ -1,4 +1,16 @@
 {
+  "products": [
+    {
+      "name": "Monitor",
+      "price": "345.87",
+      "id": 8
+    },
+    {
+      "name": "Monitor",
+      "price": "345.87",
+      "id": 9
+    }
+  ],
   "posts":[
     {
       "id":1,
