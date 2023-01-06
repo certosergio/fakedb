@@ -1,34 +1,35 @@
-{"posts":[
-  {
-    "id": 1,
-    "iduser" : 1
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "iduser" : 1
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "iduser" : 1
-    "title": "Post 3"
-  }
-   {
-    "id": 4,
-    "iduser" : 2
-    "title": "Post 4"
-  },
-  {
-    "id": 5,
-    "iduser" : 2
-    "title": "Post 5"
-  },
-  {
-    "id": 6,
-    "iduser" : 2
-    "title": "Post 6"
-  }
+{"posts":
+  [
+    {
+      "id": 1,
+      "iduser" : 1
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "iduser" : 1
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "iduser" : 1
+      "title": "Post 3"
+    },
+    {
+      "id": 4,
+      "iduser" : 2
+      "title": "Post 4"
+    },
+    {
+      "id": 5,
+      "iduser" : 2
+      "title": "Post 5"
+    },
+    {
+      "id": 6,
+      "iduser" : 2
+      "title": "Post 6"
+    }
   ],
 "users" : 
   [
@@ -64,24 +65,24 @@
     },
   ],
 "comments": 
- [
-  {
-  "id" : 1,
-  "iduser": 1,
-  "idpost": 1,
-  "comment": "Comentários o usuário 1"
-  },
-  {
-  "id" : 2,
-  "iduser": 1,
-  "idpost": 2,
-  "comment": "Comentários o usuário 1"
-  },
-  {
-  "id" : 3,
-  "iduser": 2,
-  "idpost": 2,
-  "comment": "Comentários o usuário 2"
-  }
+  [
+    {
+      "id" : 1,
+      "iduser": 1,
+      "idpost": 1,
+      "comment": "Comentários o usuário 1"
+    },
+    {
+      "id" : 2,
+      "iduser": 1,
+      "idpost": 2,
+      "comment": "Comentários o usuário 1"
+    },
+    {
+      "id" : 3,
+      "iduser": 2,
+      "idpost": 2,
+      "comment": "Comentários o usuário 2"
+    }
   ]
 }
