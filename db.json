@@ -1,15 +1,87 @@
 {"posts":[
   {
     "id": 1,
+    "iduser" : 1
     "title": "Post 1"
   },
   {
     "id": 2,
+    "iduser" : 1
     "title": "Post 2"
   },
   {
     "id": 3,
+    "iduser" : 1
     "title": "Post 3"
+  }
+   {
+    "id": 4,
+    "iduser" : 2
+    "title": "Post 4"
+  },
+  {
+    "id": 5,
+    "iduser" : 2
+    "title": "Post 5"
+  },
+  {
+    "id": 6,
+    "iduser" : 2
+    "title": "Post 6"
+  }
+  ],
+"users" : 
+  [
+    {
+      "id" : 1,
+      "name": "User 1",
+      "email" user1@gmail.com",
+      "password": "pass1"
+    },
+    {
+      "id" : 2,
+      "name": "User 2",
+      "email" user2@gmail.com",
+      "password" : "pass2"
+    },
+    {
+      "id" : 3,
+      "name": "User 3",
+      "email" user3@gmail.com",
+      "password" : "pass3"
+    },
+    {
+      "id" : 4,
+      "name": "User 4",
+      "email": user4@gmail.com",
+      "password" : "pass4"
+    },
+    {
+      "id"    : 5,
+      "name"  : "User 5",
+      "email" : user5@gmail.com",
+      "password" : "pass5"
+    },
+  ],
+"comments: 
+ [
+  {
+  "id" : 1,
+  "iduser": 1,
+  "idpost": 1,
+  "comment": "Comentários o usuário 1"
+  },
+  {
+  "id" : 2,
+  "iduser": 1,
+  "idpost": 2,
+  "comment": "Comentários o usuário 1"
+  },
+  {
+  "id" : 3,
+  "iduser": 2,
+  "idpost": 2,
+  "comment": "Comentários o usuário 3"
   }
   ]
 }
