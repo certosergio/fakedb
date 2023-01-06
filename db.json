@@ -35,7 +35,7 @@
     {
       "id" : 1,
       "name": "User 1",
-      "email" user1@gmail.com",
+      "email": "user1@gmail.com",
       "password": "pass1"
     },
     {
@@ -81,7 +81,7 @@
   "id" : 3,
   "iduser": 2,
   "idpost": 2,
-  "comment": "Comentários o usuário 3"
+  "comment": "Comentários o usuário 2"
   }
   ]
 }
